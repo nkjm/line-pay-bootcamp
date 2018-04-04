@@ -11,7 +11,11 @@
   "author": "Kazuki Nakajima",
   "license": "MIT",
   "dependencies": {
+    "dotenv": "^5.0.1",
     "ejs": "^2.5.8",
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "line-pay": "^1.0.11",
+    "memory-cache": "^0.2.0",
+    "uuid": "^3.2.1"
   }
 }
